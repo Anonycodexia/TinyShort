@@ -8,6 +8,8 @@ pkg install git figlet -y
 
 git clone https://github.com/Anonycodexia/TinyShort
 
+cd TinyShort
+
 chmod +x tinyshort.py
 
 python tinyshort.py
